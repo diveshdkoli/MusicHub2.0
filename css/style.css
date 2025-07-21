@@ -61,7 +61,7 @@ figure a{
 }
 
 .login-image{
-    background-image: url("../images/login-back.jpg");
+    background-image: url("/images/login-back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;

@@ -65,7 +65,7 @@
 } */
 
 .back-image {
-  background-image: url("../images/about.jpg");
+  background-image: url("/images/about_image.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -90,7 +90,7 @@
   }
 
 .music-image{
-  background-image: url("../images/music-image.jpg");
+  background-image: url("/images/music-image.jpg");
   height: 400px;
   width: 100%;
   background-repeat: no-repeat;
